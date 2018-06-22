@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node10">
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Vendor" target="" pan="55.3591" skinid="" url="{node2}" id="Point01" tilt="-2.08586"/>
+      <hotspot title="Training" target="" pan="163.34" skinid="" url="{node3}" id="Point02" tilt="-4.13875"/>
+      <hotspot title="Kitchen" target="" pan="111.314" skinid="" url="{node5}" id="Point03" tilt="-1.58211"/>
+      <hotspot title="Library" target="" pan="76.65340000000001" skinid="" url="{node6}" id="Point04" tilt="-0.200751"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Breakarea_o_0.jpg" tile5url="images/Breakarea_o_5.jpg" tilesize="1330" tile4url="images/Breakarea_o_4.jpg" tile3url="images/Breakarea_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Breakarea_o_2.jpg" tile1url="images/Breakarea_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Zilker" target="" pan="-39.9062" skinid="" url="{node9}" id="Point01" tilt="-3.89142"/>
+      <hotspot title="Waterloo" target="" pan="-70.55240000000001" skinid="" url="{node8}" id="Point02" tilt="-2.42839"/>
+      <hotspot title="Library" target="" pan="-82.846" skinid="" url="{node6}" id="Point03" tilt="-3.01615"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Reception_o_0.jpg" tile5url="images/Reception_o_5.jpg" tilesize="1330" tile4url="images/Reception_o_4.jpg" tile3url="images/Reception_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Reception_o_2.jpg" tile1url="images/Reception_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Library" target="" pan="73.06310000000001" skinid="" url="{node6}" id="Point01" tilt="-0.416525"/>
+      <hotspot title="Pease" target="" pan="63.6982" skinid="" url="{node7}" id="Point02" tilt="-6.66993"/>
+      <hotspot title="OpenOffice_6" target="" pan="13.8416" skinid="" url="{node16}" id="Point03" tilt="-1.3634"/>
+      <hotspot title="Breakarea" target="" pan="-71.9593" skinid="" url="{node4}" id="Point04" tilt="-2.50198"/>
+      <hotspot title="Kitchen" target="" pan="140.098" skinid="" url="{node5}" id="Point05" tilt="-4.76957"/>
+      <hotspot title="Training" target="" pan="-155.596" skinid="" url="{node3}" id="Point06" tilt="-2.82813"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Vendor_o_0.jpg" tile5url="images/Vendor_o_5.jpg" tilesize="1330" tile4url="images/Vendor_o_4.jpg" tile3url="images/Vendor_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Vendor_o_2.jpg" tile1url="images/Vendor_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="140" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Breakarea" target="" pan="-8.35493" skinid="" url="{node4}" id="Point01" tilt="-2.1366"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Training_o_0.jpg" tile5url="images/Training_o_5.jpg" tilesize="1330" tile4url="images/Training_o_4.jpg" tile3url="images/Training_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Training_o_2.jpg" tile1url="images/Training_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Vendor" target="" pan="-23.5871" skinid="" url="{node2}" id="Point01" tilt="-2.81145"/>
+      <hotspot title="Breakarea" target="" pan="-48.6235" skinid="" url="{node4}" id="Point02" tilt="-2.62889"/>
+      <hotspot title="Pease" target="" pan="30.4463" skinid="" url="{node7}" id="Point03" tilt="-2.73848"/>
+      <hotspot title="OpenOffice_6" target="" pan="-1.18027" skinid="" url="{node16}" id="Point04" tilt="-0.154684"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Kitchen_o_0.jpg" tile5url="images/Kitchen_o_5.jpg" tilesize="1330" tile4url="images/Kitchen_o_4.jpg" tile3url="images/Kitchen_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Kitchen_o_2.jpg" tile1url="images/Kitchen_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="100" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Pease" target="" pan="-90.1822" skinid="" url="{node7}" id="Point01" tilt="0.0685346"/>
+      <hotspot title="Breakarea" target="" pan="-105.868" skinid="" url="{node4}" id="Point02" tilt="0.283937"/>
+      <hotspot title="Reception" target="" pan="58.384" skinid="" url="{node10}" id="Point03" tilt="-2.39111"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Library_o_0.jpg" tile5url="images/Library_o_5.jpg" tilesize="1330" tile4url="images/Library_o_4.jpg" tile3url="images/Library_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Library_o_2.jpg" tile1url="images/Library_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Library" target="" pan="156.049" skinid="" url="{node6}" id="Point01" tilt="1.37033"/>
+      <hotspot title="Kitchen" target="" pan="-172.186" skinid="" url="{node5}" id="Point02" tilt="2.58142"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Pease_o_0.jpg" tile5url="images/Pease_o_5.jpg" tilesize="1330" tile4url="images/Pease_o_4.jpg" tile3url="images/Pease_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Pease_o_2.jpg" tile1url="images/Pease_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Reception" target="" pan="86.8376" skinid="" url="{node10}" id="Point01" tilt="-0.919941"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Waterloo_o_0.jpg" tile5url="images/Waterloo_o_5.jpg" tilesize="1330" tile4url="images/Waterloo_o_4.jpg" tile3url="images/Waterloo_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Waterloo_o_2.jpg" tile1url="images/Waterloo_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="345" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Reception" target="" pan="177.583" skinid="" url="{node10}" id="Point01" tilt="-2.54409"/>
+      <hotspot title="Library" target="" pan="-140.789" skinid="" url="{node6}" id="Point02" tilt="-1.56928"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Zilker_o_0.jpg" tile5url="images/Zilker_o_5.jpg" tilesize="1330" tile4url="images/Zilker_o_4.jpg" tile3url="images/Zilker_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Zilker_o_2.jpg" tile1url="images/Zilker_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="295" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_2" target="" pan="-21.545" skinid="" url="{node12}" id="Point01" tilt="-4.16784"/>
+      <hotspot title="QA" target="" pan="-96.4777" skinid="" url="{node23}" id="Point02" tilt="-3.98303"/>
+      <hotspot title="OpenOffice_7" target="" pan="-74.7697" skinid="" url="{node17}" id="Point03" tilt="-1.53913"/>
+      <hotspot title="OpenOffice_6" target="" pan="-113.068" skinid="" url="{node16}" id="Point04" tilt="-1.56891"/>
+      <hotspot title="OpenOffice_9" target="" pan="11.8015" skinid="" url="{node21}" id="Point05" tilt="-1.3157"/>
+      <hotspot title="Reception" target="" pan="154.97" skinid="" url="{node10}" id="Point06" tilt="-0.0960767"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/OpenOffice_1_o_0.jpg" tile5url="images/OpenOffice_1_o_5.jpg" tilesize="1330" tile4url="images/OpenOffice_1_o_4.jpg" tile3url="images/OpenOffice_1_o_3.jpg" tilescale="1.007518796992481" tile2url="images/OpenOffice_1_o_2.jpg" tile1url="images/OpenOffice_1_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_3" target="" pan="-20.8261" skinid="" url="{node13}" id="Point01" tilt="-2.64794"/>
+      <hotspot title="OpenOffice_10" target="132.5/-6/65" pan="4.42305" skinid="" url="{node22}" id="Point02" tilt="-2.14615"/>
+      <hotspot title="OpenOffice_9" target="" pan="81.5427" skinid="" url="{node21}" id="Point03" tilt="-4.47774"/>
+      <hotspot title="OpenOffice_1" target="" pan="150.631" skinid="" url="{node11}" id="Point04" tilt="-3.46651"/>
+      <hotspot title="Reception" target="" pan="157.36" skinid="" url="{node10}" id="Point05" tilt="-0.637687"/>
+      <hotspot title="Directors" target="" pan="-46.2198" skinid="" url="{node18}" id="Point06" tilt="-3.31863"/>
+      <hotspot title="OpenOffice_7" target="" pan="-111.373" skinid="" url="{node17}" id="Point07" tilt="-2.11592"/>
+      <hotspot title="Workroom" target="" pan="-84.2287" skinid="" url="{node19}" id="Point08" tilt="-1.48808"/>
+      <hotspot title="QA" target="" pan="-166.462" skinid="" url="{node23}" id="Point09" tilt="-2.53988"/>
+      <hotspot title="OpenOffice_6" target="" pan="-152.052" skinid="" url="{node16}" id="Point10" tilt="-1.28205"/>
+      <hotspot title="OpenOffice_8" target="" pan="-135.302" skinid="" url="{node20}" id="Point11" tilt="-0.871497"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/OpenOffice_2_o_0.jpg" tile5url="images/OpenOffice_2_o_5.jpg" tilesize="1330" tile4url="images/OpenOffice_2_o_4.jpg" tile3url="images/OpenOffice_2_o_3.jpg" tilescale="1.007518796992481" tile2url="images/OpenOffice_2_o_2.jpg" tile1url="images/OpenOffice_2_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Directors" target="" pan="-141.034" skinid="" url="{node18}" id="Point01" tilt="-5.17294"/>
+      <hotspot title="Workroom" target="" pan="-125.076" skinid="" url="{node19}" id="Point02" tilt="-0.222987"/>
+      <hotspot title="OpenOffice_2" target="" pan="155.213" skinid="" url="{node12}" id="Point03" tilt="-8.034509999999999"/>
+      <hotspot title="Reception" target="" pan="158.377" skinid="" url="{node10}" id="Point05" tilt="-1.19218"/>
+      <hotspot title="OpenOffice_10" target="" pan="87.15640000000001" skinid="" url="{node22}" id="Point06" tilt="-8.346130000000001"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/OpenOffice_3_o_0.jpg" tile5url="images/OpenOffice_3_o_5.jpg" tilesize="1330" tile4url="images/OpenOffice_3_o_4.jpg" tile3url="images/OpenOffice_3_o_3.jpg" tilescale="1.007518796992481" tile2url="images/OpenOffice_3_o_2.jpg" tile1url="images/OpenOffice_3_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="165" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_5" target="0/0/65" pan="155.879" skinid="" url="{node15}" id="Point01" tilt="-3.98019"/>
+      <hotspot title="OpenOffice_6" target="" pan="140.568" skinid="" url="{node16}" id="Point02" tilt="-1.18246"/>
+      <hotspot title="Workroom" target="" pan="70.792" skinid="" url="{node19}" id="Point03" tilt="0.597519"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/OpenOffice_4_o_0.jpg" tile5url="images/OpenOffice_4_o_5.jpg" tilesize="1330" tile4url="images/OpenOffice_4_o_4.jpg" tile3url="images/OpenOffice_4_o_3.jpg" tilescale="1.007518796992481" tile2url="images/OpenOffice_4_o_2.jpg" tile1url="images/OpenOffice_4_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="342" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_4" target="" pan="-19.5777" skinid="" url="{node14}" id="Point01" tilt="-2.44708"/>
+      <hotspot title="Workroom" target="" pan="30.1297" skinid="" url="{node19}" id="Point02" tilt="0"/>
+      <hotspot title="OpenOffice_8" target="" pan="155.1" skinid="" url="{node20}" id="Point03" tilt="-3.56661"/>
+      <hotspot title="OpenOffice_6" target="" pan="119.829" skinid="" url="{node16}" id="Point04" tilt="-0.126174"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/OpenOffice_5_o_0.jpg" tile5url="images/OpenOffice_5_o_5.jpg" tilesize="1330" tile4url="images/OpenOffice_5_o_4.jpg" tile3url="images/OpenOffice_5_o_3.jpg" tilescale="1.007518796992481" tile2url="images/OpenOffice_5_o_2.jpg" tile1url="images/OpenOffice_5_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="342" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_7" target="0/0/65" pan="-16.2963" skinid="" url="{node17}" id="Point01" tilt="-4.43614"/>
+      <hotspot title="OpenOffice_8" target="" pan="-115.329" skinid="" url="{node20}" id="Point02" tilt="-3.70055"/>
+      <hotspot title="OpenOffice_5" target="" pan="-61.7875" skinid="" url="{node15}" id="Point03" tilt="-0.99813"/>
+      <hotspot title="Vendor" target="" pan="178.063" skinid="" url="{node2}" id="Point04" tilt="0.487064"/>
+      <hotspot title="Kitchen" target="" pan="162.18" skinid="" url="{node5}" id="Point05" tilt="-0.384092"/>
+      <hotspot title="OpenOffice_1" target="0/0/65" pan="65.4525" skinid="" url="{node11}" id="Point06" tilt="-1.08776"/>
+      <hotspot title="OpenOffice_2" target="" pan="31.9325" skinid="" url="{node12}" id="Point07" tilt="-1.19722"/>
+      <hotspot title="Workroom" target="" pan="-22.8768" skinid="" url="{node19}" id="Point08" tilt="-0.696886"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/OpenOffice_6_o_0.jpg" tile5url="images/OpenOffice_6_o_5.jpg" tilesize="1330" tile4url="images/OpenOffice_6_o_4.jpg" tile3url="images/OpenOffice_6_o_3.jpg" tilescale="1.007518796992481" tile2url="images/OpenOffice_6_o_2.jpg" tile1url="images/OpenOffice_6_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="22" fov="60" tilt="-3"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Workroom" target="" pan="-31.0055" skinid="" url="{node19}" id="Point01" tilt="-4.14398"/>
+      <hotspot title="Directors" target="" pan="28.2392" skinid="" url="{node18}" id="Point02" tilt="-2.39217"/>
+      <hotspot title="OpenOffice_6" target="" pan="156.939" skinid="" url="{node16}" id="Point03" tilt="-5.61173"/>
+      <hotspot title="Kitchen" target="" pan="160.851" skinid="" url="{node5}" id="Point04" tilt="-0.185545"/>
+      <hotspot title="OpenOffice_8" target="" pan="-162.963" skinid="" url="{node20}" id="Point05" tilt="-1.3613"/>
+      <hotspot title="QA" target="" pan="124.028" skinid="" url="{node23}" id="Point06" tilt="-1.46932"/>
+      <hotspot title="OpenOffice_1" target="" pan="104.323" skinid="" url="{node11}" id="Point07" tilt="-1.29991"/>
+      <hotspot title="Reception" target="" pan="114.739" skinid="" url="{node10}" id="Point08" tilt="-0.239248"/>
+      <hotspot title="OpenOffice_2" target="" pan="67.6949" skinid="" url="{node12}" id="Point09" tilt="-1.70391"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/OpenOffice_7_o_0.jpg" tile5url="images/OpenOffice_7_o_5.jpg" tilesize="1330" tile4url="images/OpenOffice_7_o_4.jpg" tile3url="images/OpenOffice_7_o_3.jpg" tilescale="1.007518796992481" tile2url="images/OpenOffice_7_o_2.jpg" tile1url="images/OpenOffice_7_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="160" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_10" target="" pan="60.8788" skinid="" url="{node22}" id="Point01" tilt="-2.18574"/>
+      <hotspot title="Workroom" target="" pan="-114.077" skinid="" url="{node19}" id="Point02" tilt="-0.322743"/>
+      <hotspot title="OpenOffice_7" target="" pan="-158.686" skinid="" url="{node17}" id="Point03" tilt="-2.70049"/>
+      <hotspot title="QA" target="" pan="165.269" skinid="" url="{node23}" id="Point04" tilt="-1.77254"/>
+      <hotspot title="OpenOffice_2" target="" pan="123.478" skinid="" url="{node12}" id="Point05" tilt="-4.36205"/>
+      <hotspot title="OpenOffice_1" target="" pan="140.723" skinid="" url="{node11}" id="Point06" tilt="-2.36893"/>
+      <hotspot title="Reception" target="" pan="149.366" skinid="" url="{node10}" id="Point07" tilt="-0.18542"/>
+      <hotspot title="OpenOffice_3" target="" pan="43.6189" skinid="" url="{node13}" id="Point08" tilt="-5.8557"/>
+      <hotspot title="OpenOffice_9" target="" pan="112.577" skinid="" url="{node21}" id="Point09" tilt="-2.40344"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Directors_o_0.jpg" tile5url="images/Directors_o_5.jpg" tilesize="1330" tile4url="images/Directors_o_4.jpg" tile3url="images/Directors_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Directors_o_2.jpg" tile1url="images/Directors_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="188" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_7" target="0/0/65" pan="164.809" skinid="" url="{node17}" id="Point01" tilt="-1.63846"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Workroom_o_0.jpg" tile5url="images/Workroom_o_5.jpg" tilesize="1330" tile4url="images/Workroom_o_4.jpg" tile3url="images/Workroom_o_3.jpg" tilescale="1.007518796992481" tile2url="images/Workroom_o_2.jpg" tile1url="images/Workroom_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="18" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_6" target="" pan="62.2415" skinid="" url="{node16}" id="Point01" tilt="-2.82617"/>
+      <hotspot title="OpenOffice_7" target="" pan="22.5988" skinid="" url="{node17}" id="Point02" tilt="-1.65507"/>
+      <hotspot title="OpenOffice_5" target="" pan="-22.4076" skinid="" url="{node15}" id="Point03" tilt="-2.33369"/>
+      <hotspot title="Workroom" target="" pan="-6.15668" skinid="" url="{node19}" id="Point04" tilt="0.616495"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/OpenOffice_8_o_0.jpg" tile5url="images/OpenOffice_8_o_5.jpg" tilesize="1330" tile4url="images/OpenOffice_8_o_4.jpg" tile3url="images/OpenOffice_8_o_3.jpg" tilescale="1.007518796992481" tile2url="images/OpenOffice_8_o_2.jpg" tile1url="images/OpenOffice_8_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="150" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_10" target="" pan="-20.7229" skinid="" url="{node22}" id="Point01" tilt="-2.20861"/>
+      <hotspot title="Directors" target="" pan="-62.3308" skinid="" url="{node18}" id="Point02" tilt="-2.39012"/>
+      <hotspot title="Workroom" target="" pan="-91.5685" skinid="" url="{node19}" id="Point03" tilt="-1.46348"/>
+      <hotspot title="OpenOffice_1" target="" pan="-170.096" skinid="" url="{node11}" id="Point04" tilt="-3.51354"/>
+      <hotspot title="QA" target="" pan="-144.289" skinid="" url="{node23}" id="Point05" tilt="-1.31109"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/OpenOffice_9_o_0.jpg" tile5url="images/OpenOffice_9_o_5.jpg" tilesize="1330" tile4url="images/OpenOffice_9_o_4.jpg" tile3url="images/OpenOffice_9_o_3.jpg" tilescale="1.007518796992481" tile2url="images/OpenOffice_9_o_2.jpg" tile1url="images/OpenOffice_9_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="160" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_9" target="" pan="157.272" skinid="" url="{node21}" id="Point01" tilt="-2.69382"/>
+      <hotspot title="OpenOffice_1" target="" pan="172.322" skinid="" url="{node11}" id="Point02" tilt="-1.47696"/>
+      <hotspot title="OpenOffice_2" target="" pan="-164.329" skinid="" url="{node12}" id="Point03" tilt="-4.00417"/>
+      <hotspot title="Directors" target="" pan="-114.692" skinid="" url="{node18}" id="Point04" tilt="-3.51095"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/OpenOffice_10_o_0.jpg" tile5url="images/OpenOffice_10_o_5.jpg" tilesize="1330" tile4url="images/OpenOffice_10_o_4.jpg" tile3url="images/OpenOffice_10_o_3.jpg" tilescale="1.007518796992481" tile2url="images/OpenOffice_10_o_2.jpg" tile1url="images/OpenOffice_10_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="350" fov="60" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="OpenOffice_7" target="" pan="-63.5107" skinid="" url="{node17}" id="Point01" tilt="-4.14022"/>
+      <hotspot title="Directors" target="" pan="-14.8618" skinid="" url="{node18}" id="Point02" tilt="-2.13399"/>
+      <hotspot title="OpenOffice_1" target="" pan="81.09650000000001" skinid="" url="{node11}" id="Point03" tilt="-2.9318"/>
+      <hotspot title="OpenOffice_2" target="" pan="20.4756" skinid="" url="{node12}" id="Point04" tilt="-2.48399"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/QA_o_0.jpg" tile5url="images/QA_o_5.jpg" tilesize="1330" tile4url="images/QA_o_4.jpg" tile3url="images/QA_o_3.jpg" tilescale="1.007518796992481" tile2url="images/QA_o_2.jpg" tile1url="images/QA_o_1.jpg"/>
+    <control simulatemass="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="5"/>
+  </panorama>
+</tour>
